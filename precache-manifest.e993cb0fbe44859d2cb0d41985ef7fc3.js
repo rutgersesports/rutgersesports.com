@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "91a802c181f294cc8903",
-    "url": "/static/css/main.3e3691b6.chunk.css"
+    "revision": "3086f6b9559786d033fc",
+    "url": "/static/css/main.43b59299.chunk.css"
   },
   {
-    "revision": "91a802c181f294cc8903",
-    "url": "/static/js/main.91a802c1.chunk.js"
+    "revision": "3086f6b9559786d033fc",
+    "url": "/static/js/main.3086f6b9.chunk.js"
   },
   {
-    "revision": "98fa07f5fe77d0b4395b",
-    "url": "/static/js/1.98fa07f5.chunk.js"
+    "revision": "82f3f0cc799277e00c27",
+    "url": "/static/js/1.82f3f0cc.chunk.js"
   },
   {
     "revision": "deddd9ae54fe64080872",
     "url": "/static/js/2.deddd9ae.chunk.js"
   },
   {
-    "revision": "a61775e37c9071fc84f0",
-    "url": "/static/js/runtime~main.a61775e3.js"
+    "revision": "15fdb0a9f1727d63fe0e",
+    "url": "/static/js/runtime~main.15fdb0a9.js"
   },
   {
     "revision": "241eb573f8994f5090c8452963e2269f",
@@ -136,8 +136,12 @@ self.__precacheManifest = [
     "url": "/static/media/rocket-league-club-bg.9e34d294.jpg"
   },
   {
+    "revision": "8f0d0d9f61085b55faa50f24c21c8e2c",
+    "url": "/static/media/scarlet-smash-melee-club-bg.8f0d0d9f.jpg"
+  },
+  {
     "revision": "66a3ac369ce96de2c0b6bc5a91e28a50",
-    "url": "/static/media/super-smash-bros-club-bg.66a3ac36.jpg"
+    "url": "/static/media/scarlet-smash-ultimate-club-bg.66a3ac36.jpg"
   },
   {
     "revision": "cb57c3becdfe8d028004fb6c3f361702",
@@ -152,7 +156,7 @@ self.__precacheManifest = [
     "url": "/static/media/youtube.fbae9fa0.svg"
   },
   {
-    "revision": "f33d8a41c5aedd0b4640c0f8ea52cae8",
+    "revision": "cab69145c096b24713c7fd772b981b0d",
     "url": "/index.html"
   }
 ];
